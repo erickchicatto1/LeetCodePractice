@@ -1,4 +1,4 @@
-#Logic & Practice
+### Logic & Practice
 
 Welcome! This repository is a dedicated space for improving my **problem-solving skills**, **algorithmic logic**, and mastery of **C++** and **Python**.
 
@@ -6,7 +6,7 @@ The goal of this project is to document my journey through complex data structur
 
 ---
 
-##Focused Topics
+### Focused Topics
 
 Currently, I am focusing on the following areas:
 
