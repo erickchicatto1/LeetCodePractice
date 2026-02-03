@@ -21,6 +21,8 @@ class Solution:
             current_window_len = right - left + 1
             max_len = max(max_len, current_window_len)
             
+        return max_len
+            
             
 solution = Solution()
-print(f"This is the soluction {solution.lengthOfLongestSubstring("abcdeee")} ")
+print(f"This is the soluction {solution.lengthOfLongestSubstring("abcdeee")}")
