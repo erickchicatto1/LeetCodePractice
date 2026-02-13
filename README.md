@@ -6,6 +6,12 @@ The goal of this project is to document my journey through complex data structur
 
 ---
 
+for my reference , check this out:
+
+https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/
+https://www.msweet.org/serial/serial.html
+
+
 ### Focused Topics
 
 Currently, I am focusing on the following areas:
